@@ -866,14 +866,14 @@ nav .fa-solid{
         /* Adjust the layout to stack vertically */
         width: 100%;
     }
-  .gallery {
+/*   .gallery {
         max-width: 90%;
         height: 1200px;
         margin-inline: auto;
         display: flex;
         justify-content: center;
         gap: 1rem;
-      }
+      } */
 
       /* nav bar */
 
